@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='./assets/Untitled video - Made with Clipchamp (1).mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/gif.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap Windows
 
