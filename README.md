@@ -23,9 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG9qeHl2NDB3bXUzamZsZm16YXg2YWx1M2pnNWV0cnlpN2wxN3ZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HxaeZRsnCA3pYYTd0e/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHMxd3c4cmVoc2wzcXYwOGo2aHpoOHdycTFsNnphMjZ4bDFmbjI3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PiOWoCgPQEtC9KUlEh/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with LiceCap Windows
+GIF created with GIPHY
 
 ## Notes
 
